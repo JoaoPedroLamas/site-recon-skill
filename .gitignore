@@ -1,0 +1,6 @@
+# never commit captured sessions or recon output (contain tokens / PII)
+recon/
+*.har
+live_capture.jsonl
+**/samples/
+*-chrome/
